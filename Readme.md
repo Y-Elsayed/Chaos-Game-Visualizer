@@ -16,6 +16,7 @@
         <li><a href="#libraries">Libraries</a></li>
       </ul>
     </li>
+    <li><a href="#expected-output">Expected Output</a></li>
     <li><a href="#future-work">Future Work</a></li>
     <li><a href="#references">References</a></li>
   </ol>
@@ -80,6 +81,9 @@ Just follow these simple steps to get started:
 - **[Math Module](https://docs.python.org/3/library/math.html):**
   The Math module provides essential mathematical functions, enhancing the capabilities of the Chaos Game algorithm by enabling precise calculations and geometric transformations.
 
+## Expected Output
+<p><img src = "chaos-game-sierpinski.png"></p>
+This is the Sierpinski Triangle, which is the expected output of the chaotic algorithm. Check and see if it works ur self (The algorithm not the program ofc ;) )
 
 
 ## Future Work
